@@ -1,0 +1,75 @@
+Please place game-ready images in this location.
+
+Game-ready means a 150x150 pixel image in either .gif or .jpg format.  If in .jpg format, it should have the default background for the database.  If in .gif, it may either have the default background or transparent background.  Optimally, files should be uploaded in both formats; a .gif with transparent background and a .jpg.
+
+Images for the workers in the database should be named <WorkerName>_<Creator Code><Alt Number>.  The worker name should be trimmed at 20 characters if needed (so "The Alex Arturro Experience" becomes "The Alex Arturro Exp").  Alt number should be three digits with leading 0s, and should start at 1 and increase for every file you upload.  So, for instance, if shipshirt was uploading his 2nd Aaron Andrew alt, he would name it "Aaron Andrews_shpshrt002".
+
+Images for Free Workers should be named FP_<Gender>_<Race>_<Mask>_<Ann/Ref>_<Creator Code><Number>.  As above, the number should be in incrementing three digit number that ties in to your own personal combination.  To ensure that the file name remains under 35 characters, please use these naming conventions:
+
+Gender:
+M = Male
+F = Female
+
+Race:
+White = White
+Black = Black
+Asian = Asian
+Hspnc = Hispanic
+Amind = American Indian
+Mdest = Middle Eastern
+India = Indian
+Pcfic = Pacific
+Other = Other
+
+
+Mask/Paint:
+Mask = Masked
+Pntd = Painted <This isn't an option in the editor, but may be useful going forward>
+Unms = Unmasked
+  
+Position:
+Ann = Announcer or Colour Commentator
+Ref = Referee
+Man = Manager
+Wre = Wrestler
+	
+So, again using shipshirt as our creator example, if he was uploading his 17th white male wrestler, the file name would be FP_M_White_Unms_Wre_shpshrt017.  
+
+I have taken the liberty of assigning creator codes to those I had images for already.  Based on the Cornellverse, the longest character name is 27 characters, which when combined with the file extension, the 2 digit alt count, and the underscore gives two characters for a creator code. Outside of the creator code, 28 characters are the maximum a filename would use for a worker, and all free pics should be 27 characters.  This gives 7 characters for the creator code to keep within TEW's 35 character limit.  If you are a new creator, please select a unique creator code within 7 characters, and add it to the list below.
+
+Creator Code		GDS Forum Name
+alpha				alpha2117
+asaemon				asaemon
+ayden				aydenreid
+bison				king bison
+bman				blackman
+brat99				brat99
+bull				bull
+celt				the celt
+enygma				cdenygma
+debosco				debosco
+dse81				dse81
+east				eastwood
+esteel				esteel20
+ewanite				ewanite
+haloed				haloed
+ifnrule				i effin rule
+james0				james0
+jhd1				jhd1
+jsilver				jsilver
+jtlant				jtlant
+lloyd				the lloyd
+london				london
+pstiles				parker stiles
+poputt				poputt
+rdiablo				ram_diablo
+scottie				scottie
+shnsuke				shinsuke
+shpshrt				shipshirt
+smw88				smw88
+sockppt				sockpuppet
+wicked				wicked intentions
+willy				willywillywilly
+wr0ck				willr0ck
+					
+anon				UNCREDITED
