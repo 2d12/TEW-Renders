@@ -1,0 +1,1 @@
+This folder should contain only the images included with the default CVerse database.  No new files should be placed here.
